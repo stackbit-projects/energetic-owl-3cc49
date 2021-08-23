@@ -18,7 +18,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-    background_image: /images/81qip2t9RpL-05fa753e.jpg
+    background_image: /images/81qip2t9RpL-09676bf4.jpg
     background_image_repeat: repeat
     background_image_size: cover
     background_image_opacity: 0
