@@ -11,7 +11,7 @@ sections:
         url: '/contact https://wa.me/0712714546'
         style: primary
     image: /images/IMG_4367_edited.jpg
-    image_alt: A smiling woman
+    image_alt: A smiling man
     media_position: right
     media_width: fifty
     align: left
