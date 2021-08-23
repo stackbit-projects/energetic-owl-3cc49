@@ -8,7 +8,7 @@ sections:
       affordable price.
     actions:
       - label: Contact Me
-        url: '/contact https://wa.me/'
+        url: '/contact https://wa.me/0712714546'
         style: primary
     image: /images/IMG_4367_edited.jpg
     image_alt: A smiling woman
