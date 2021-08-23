@@ -8,7 +8,7 @@ sections:
       affordable price.
     actions:
       - label: Contact Me
-        url: /contact
+        url: '/contact '
         style: primary
     image: /images/IMG_4367_edited.jpg
     image_alt: A smiling woman
